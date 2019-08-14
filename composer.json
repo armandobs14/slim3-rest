@@ -1,0 +1,23 @@
+{
+  "require": {
+    "slim/slim":"^3.0",
+    "slim/csrf": "^0.8.2",
+    "symfony/yaml": "^3.3",
+    "alveos/phpqrcode": "1.0.1",
+    "illuminate/database": "^5.5"
+  },
+  "repositories":[
+    {
+      "type":"package",
+      "package": {
+        "name": "alveos/phpqrcode",
+        "version":"master",
+        "source": {
+            "url": "git@github.com:Alveos/PHPQRCode.git",
+            "type": "git",
+            "reference":"master"
+        }
+      }
+    }
+  ]
+}
