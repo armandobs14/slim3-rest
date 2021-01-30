@@ -4,7 +4,7 @@
     "slim/csrf": "^0.8.2",
     "symfony/yaml": "^3.3",
     "alveos/phpqrcode": "1.0.1",
-    "illuminate/database": "^5.5"
+    "illuminate/database": "^6.20"
   },
   "repositories":[
     {
